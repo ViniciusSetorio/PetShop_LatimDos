@@ -1,0 +1,1 @@
+document.querySelector(".navbar-toggler").addEventListener("click",function(){document.getElementById("navbar-links").classList.toggle("show")});
